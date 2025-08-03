@@ -1,0 +1,349 @@
+id_juego,cantidad_sesiones,nombre,categoria
+1,88,Assassin's Creed IV: Black Flag 1,Acción/Aventur
+2,96,Far Cry 3 1,Acción/Aventur
+3,85,For Honor 1,Lucha
+4,92,Rayman Origins 1,Plataformas
+5,91,Watch Dogs 1,Acción/Aventur
+6,88,The Division 2 1,Rol/Disparos
+7,89,Immortals Fenyx Rising 1,Acción/Aventur
+8,90,South Park: The Stick of Truth 1,Rol
+9,99,Ghost Recon Wildlands 1,Disparos táctico
+10,88,Prince of Persia: The Sands of Time 1,Acción/Aventur
+11,83,Beyond Good & Evil 2 para PlayStation 4 1,Acción/Aventur
+12,99,Prince of Persia: Las Arenas del Tiempo Remake 1,Acción/Aventur
+14,86,Assassin's Creed Infinity 1,Plataforma de servicios
+15,59,Tom Clancy's Rainbow Six Mobile 1,Disparos táctico
+16,91,The Division Resurgence 1,Rol/Disparos
+17,79,Assassin's Creed Jade 1,Rol/Acció
+18,102,Splinter Cell Remake 1,Sigilo/Acció
+19,98,Anno 117: Pax Romana 1,Estrategia
+20,84,Heroes of Might & Magic: Olden Era para Ordenador 1,Estrategia/Rol
+21,82,Morbid Metal para Ordenador 1,Acció
+22,86,Champions Tactics Reforged para Ordenador 1,Estrategia
+23,79,Assassin's Creed Shadows para PlayStation 5 1,Acción/Aventur
+24,81,BattleCore Arena para Ordenador 1,Disparos
+25,84,BUMP! Superbrawl para Ordenador 1,Lucha/Plataformas
+26,82,Rocksmith 2014 Edition REMASTERED LEARN & PLAY para Ordenador 1,Musical/Simulació
+27,71,Captain Laserhawk: the G.A.M.E. para Ordenador 1,Acción/Plataforma
+28,66,Champions Tactics: Grimoria Chronicles para Ordenador 1,Estrategia
+29,80,Just Dance 2025 para PlayStation 5 1,Musical/Ritmo
+30,88,MONOPOLY para Nintendo Switch 1,Tablero/Estrategia
+31,67,Star Wars Outlaws para PlayStation 5 1,Acción/Aventur
+32,74,OddBallers para Ordenador 1,Deportes/Fiesta
+33,84,Beyond Good & Evil 20th Anniversary Edition para PlayStation 5 1,Acción/Aventur
+34,97,Rocksmith 2014 Edition para PlayStation 4 1,Musical/Simulació
+35,85,Rabbids: Legends of the Multiverse para iPhone 1,Estrategia/Cartas
+36,86,The Rogue Prince of Persia para Ordenador 1,Plataformas/Roguelite
+37,93,XDefiant para PlayStation 5 1,Disparos
+38,75,Anno 1503 History Edition para Ordenador 1,Estrategia
+39,85,Anno 1602 History Edition para Ordenador 1,Estrategia
+40,90,Anno 1701 History Edition para Ordenador 1,Estrategia
+41,91,The Settlers : New Allies para Ordenador 1,Estrategia
+42,92,Growtopia para Ordenador 1,Sandbox/Multijugador
+43,74,Rainbow Six SMOL para Android 1,Disparos/Estrategia
+44,79,Skull and Bones para Ordenador 1,Acción/Aventur
+45,90,Prince of Persia: The Lost Crown para PlayStation 5 1,Plataformas/Metroidvania
+46,89,Avatar: Frontiers of Pandora para Ordenador 1,Acción/Aventur
+47,80,Assassin's Creed Nexus VR para Ordenador 1,Acción/Aventur
+48,96,Assassin's Creed Mirage para PlayStation 5 1,Acción/Aventur
+49,79,The Crew Motorfest para PlayStation 5 1,Carreras
+50,98,The Settlers: New Allies para Ordenador 1,Estrategia
+51,88,TrackMania para Ordenador 1,Carreras
+52,89,Valiant Hearts: Coming Home para Android 1,Aventura
+53,91,Just Dance 2023 para PlayStation 5 1,Musical/Ritmo
+54,76,Rocksmith+ para PlayStation 4 1,Musical/Simulació
+55,94,Discovery Tour: Viking Age para Xbox Series X 1,Educativo
+56,89,TRIVIAL PURSUIT Live! 2 para PlayStation 4 1,Preguntas y respuestas
+57,66,Far Cry 3 Blood Dragon Classic Edition para PlayStation 4 1,Acción/Aventur
+58,82,Just Dance 2022 para PlayStation 4 1,Musical/Ritmo
+59,92,Far Cry 6 para Xbox Series X 1,Acción/Aventur
+60,78,Immortals Fenyx Rising para Xbox Series X 1,Acción/Aventur
+61,92,Assassin's Creed Valhalla para PlayStation 4 1,Rol/Acció
+62,83,Agos: A Game of Space para Ordenador 1,Simulació
+63,76,Tom Clancy's Elite Squad para Android 1,Estrategia
+64,84,Trackmania (2020) para Ordenador 1,Carreras
+65,94,Anno 1404 - History Edition para Ordenador 1,Estrategia
+66,85,UNO FLIP! para Xbox One 1,Cartas
+67,94,Just Dance 2020 para PlayStation 4 1,Musical/Ritmo
+68,97,Rayman Mini para iPhone 1,Plataformas
+69,84,Growtopia para Xbox One 1,Sandbox/Multijugador
+70,92,Anno 1800 para Ordenador 1,Estrategia
+71,81,Assassin's Creed III Remastered para PlayStation 4 1,Acción/Aventur
+72,88,Space Junkies para Ordenador 1,Disparos
+73,81,Tom Clancy's The Division 2 para PlayStation 4 1,Rol/Disparos
+74,92,Trials Rising para PlayStation 4 1,Carreras/Plataformas
+75,77,Far Cry: New Dawn para PlayStation 4 1,Acción/Aventur
+76,86,Assassin's Creed Rebellion para Android 1,Estrategia/Rol
+77,79,The Settlers History Collection para Ordenador 1,Estrategia
+78,75,Hasbro Game Night para Nintendo Switch 1,Juegos de mesa
+79,88,Just Dance 2019 para PlayStation 4 1,Musical/Ritmo
+80,102,Starlink: Battle for Atlas para PlayStation 4 1,Acción/Aventur
+81,58,Assassin's Creed Odyssey para PlayStation 4 1,Rol/Acció
+82,81,Transference para PlayStation 4 1,Misterio/Puzles
+83,83,Legendary Fishing para PlayStation 4 1,Pesca
+84,81,The Crew 2 para PlayStation 4 1,Carreras
+85,102,Might & Magic Elemental Guardians para Android 1,Estrategia/Rol
+86,73,Far Cry 3 Classic Edition para PlayStation 4 1,Acción/Aventur
+87,76,Far Cry 5 para PlayStation 4 1,Acción/Aventur
+88,58,Assassin's Creed Rogue Remastered para PlayStation 4 1,Acción/Aventur
+89,95,South Park: La Vara de la Verdad para PlayStation 4 1,Rol
+90,78,Wheel of Fortune para PlayStation 4 1,Preguntas y respuestas
+91,84,Tom Clancy's ShadowBreak para Android 1,Disparos
+92,76,Ode para Ordenador 1,Aventura
+93,83,South Park: Phone Destroyer  para Android 1,Estrategia/Rol
+94,82,Assassin's Creed Origins para PlayStation 4 1,Rol/Acció
+95,105,Just Dance 2018 para PlayStation 4 1,Musical/Ritmo
+96,84,South Park: Retaguardia en Peligro 1,Rol
+97,95,Rayman Legends: Definitive Edition 1,Plataformas
+98,67,Mario + Rabbids Kingdom Battle 1,Estrategia/Rol
+99,80,Star Trek: Bridge Crew 1,Simulació
+100,87,Rayman Advance CV 1,Plataformas
+101,84,Rayman 3 CV 1,Plataformas
+102,88,Trackmania 2 Lagoon 1,Carreras
+103,84,Tom Clancy's Ghost Recon Wildlands 1,Disparos táctico
+104,90,Rabbids Crazy Rush 1,Carreras
+105,102,For Honor 1,Lucha
+106,80,City of Love: Paris 1,Simulación/Aventur
+107,93,Horse Adventure: Tale of Etria 1,Aventura
+108,74,Rabbids Heroes 1,Estrategia/Cartas
+109,88,Virtual Rabbids: The Big Plan 1,Realidad Virtual
+110,82,Steep 1,Deportes extremos
+111,80,Assassin's Creed The Ezio Collection 1,Acción/Aventur
+112,85,Watch Dogs 2 1,Acción/Aventur
+113,75,Eagle Flight 1,Realidad Virtual/Vuelo
+114,83,Just Dance 2017 1,Musical/Ritmo
+115,77,Trolls: Crazy Party Forest! 1,Fiesta/Minijuegos
+116,81,Rocksmith 2014 Edition  Remast,Musical/Simulació
+117,77,Just Sing 1,Musical/Canto
+118,72,Champions of Anteria 1,Estrategia/Rol
+119,85,Grow Up 1,Plataformas/Aventura
+120,89,UNO 1,Cartas
+121,84,Hundir la flota 1,Estrategia
+122,67,Might and Magic: Heroes VII  Trial by ,Estrategia
+123,79,Risk: Urban Assault 1,Estrategia
+124,83,Hungry Shark World 1,Acción/Arcad
+125,97,TrackMania Turbo 1,Carreras
+126,86,Tom Clancy's The Division 1,Rol/Disparos
+127,83,Assassin's Creed Identity 1,Acción/Ro
+128,80,Far Cry Primal 1,Acción/Aventur
+129,63,Assassin's Creed Chronicles: Russia 1,Plataformas/Acció
+130,85,Assassin's Creed Chronicles 1,Plataformas/Acció
+131,72,Sandstorm: Pirate Wars 1,Estrategia
+132,91,Assassin's Creed Chronicles: India 1,Plataformas/Acció
+133,86,Yo-Kai Watch Dance: Just Dance Special Version 1,Musical/Ritmo
+134,78,Scrabble 1,Juegos de mesa
+135,82,Tom Clancys EndWar On,Estrategia
+136,75,Rayman Adventures 1,Plataformas/Aventura
+137,85,Tom Clancy's Rainbow Six Siege 1,Disparos táctico
+138,89,Anno 2205: Asteroid Miner 1,Estrategia
+139,75,Anno 2205 1,Estrategia
+140,86,Hasbro Family Fun Pack 1,Juegos de mesa
+141,86,Assassin's Creed Syndicate 1,Acción/Aventur
+142,87,Just Dance 2016 1,Musical/Ritmo
+143,76,Gravity Falls: Legend of the Gnome Gemulets 1,Aventura/Plataformas
+144,79,Just Dance: Disney Party 2 1,Musical/Ritmo
+145,99,Might & Magic Heroes VII 1,Estrategia/Rol
+146,83,Grow Home 1,Plataformas/Aventura
+147,84,Zombi 1,Survival horror
+148,72,Toy Soldiers: War Chest 1,Estrategia/Acció
+149,88,Boggle 1,Juegos de mesa
+150,74,Trials Fusion: The Awesome Max Edition 1,Carreras/Plataformas
+151,92,Los Pitufos eShop 1,Aventura
+152,88,Anno Online 1,Estrategia/Gestió
+153,74,Rabbids Appisodes: La serie de televisin interacti,Interactivo
+154,85,AirMech Arena 1,Estrategia/Acció
+155,74,ANNO: Build an Empire 1,Estrategia/Gestió
+156,69,Assassin's Creed Chronicles: China 1,Plataformas/Acció
+157,90,Driver Speedboat Paradise 1,Carreras
+158,84,Trivial Pursuit Live! 1,Preguntas y respuestas
+159,72,Monkey King Escape 1,Acción/Aventur
+160,90,The Mighty Quest for Epic Loot 1,Rol/Acció
+161,67,Risk 1,Estrategia
+162,96,Heroes of Might & Magic III  HD Edi,Estrategia/Rol
+163,77,Battle of Heroes 1,Estrategia
+164,66,Tetris Ultimate 1,Puzles
+165,89,MONOPOLY PLUS 1,Juegos de mesa
+166,76,MONOPOLY DEAL 1,Cartas
+167,96,The Crew 1,Carreras
+168,75,Monopoly Family Fun Pack 1,Juegos de mesa
+169,87,Rabbids Invasion: La serie de televisin interacti,Interactivo
+170,90,Far Cry 4 1,Acción/Aventur
+171,96,Assassin's Creed Unity 1,Acción/Aventur
+172,80,Shape Up 1,Fitness/Ejercicio
+173,69,Assassin's Creed Rogue 1,Acción/Aventur
+174,75,Just Dance 2015 1,Musical/Ritmo
+175,96,Animalz Diversin en la ,Casual
+176,74,Animalz Aventuras Campera,Casual
+177,93,Might & Magic: Heroes Online 1,Estrategia/Rol
+178,97,Just Dance Now 1,Musical/Ritmo
+179,93,Assassin's Creed Memories 1,Estrategia/Cartas
+180,92,Battle of Heroes: Land of Immortals 1,Estrategia
+181,75,Assassin's Creed: Pirates 1,Acción/Aventur
+182,78,Might & Magic Duel of Champions - Forgotten Wars PSN 1,Estrategia/Cartas
+183,92,Valiant Hearts: The Great War 1,Aventura/Puzles
+184,79,Watch Dogs 1,Acción/Aventur
+185,88,Trials Frontier 1,Carreras/Plataformas
+186,81,Child of Light 1,Rol/Aventura
+187,72,Trials Fusion 1,Carreras/Plataformas
+188,82,Ghost Recon Phantoms 1,Disparos táctico
+189,82,Rayman Legends 1,Plataformas
+190,87,Assassin's Creed IV: Grito de libertad 1,Acción/Aventur
+191,90,Far Cry Classic PSN 1,Disparos/Aventura
+192,108,Might & Magic X Legacy 1,Rol
+193,71,Assassin's Creed Liberation HD PSN 1,Acción/Aventur
+194,92,Might & Magic Clash of Heroes 1,Puzles/Rol
+195,88,Fighter Within 1,Lucha
+196,87,Rayman Fiesta Run 1,Plataformas
+197,92,Assassin's Creed IV: Black Flag 1,Acción/Aventur
+198,84,Just Dance Kids 2014 1,Musical/Ritmo
+199,81,Rabbids Big Bang 1,Arcade
+200,89,Flashback PSN 1,Acción/Plataforma
+201,80,Just Dance 2014 1,Musical/Ritmo
+202,84,Splinter Cell: Blacklist 1,Sigilo/Acció
+203,86,Spartacus Legends PSN 1,Lucha
+204,78,Prince of Persia: The Shadow and the Flame 1,Acción/Aventur
+205,76,Los Pitufos 2 1,Aventura
+206,88,TrackMania 2: Valley 1,Carreras
+207,67,TrackMania 2: Stadium 1,Carreras
+208,79,Call of Juarez: Gunslinger PSN 1,Disparos
+209,83,Might & Magic Heroes VI: Shades of Darkness 1,Estrategia/Rol
+210,86,Far Cry 3: Blood Dragon PSN 1,Acción/Aventur
+211,96,ShootMania Storm 1,Disparos
+212,104,Trials Evolution: Gold Edition 1,Carreras/Plataformas
+213,97,Los Vengadores: Batalla por la Tierra 1,Lucha
+214,76,The Settlers Online 1,Estrategia/Gestió
+215,66,Assassins Creed Ezio Tri,Acción/Aventur
+216,82,Might & Magic: Duel of Champions 1,Estrategia/Cartas
+217,91,Rabbids Land 1,Fiesta/Minijuegos
+218,81,ZombiU 1,Survival horror
+219,79,Your Shape: Fitness Evolved 2013 1,Fitness/Ejercicio
+220,95,Sports Connection 1,Deportes
+221,78,Far Cry 3 1,Acción/Aventur
+222,80,Rabbids Rumble 1,Estrategia/Rol
+223,83,The Hip Hop Dance Experience 1,Musical/Ritmo
+224,89,Nutty Fluffies 1,Plataformas/Puzles
+225,97,Assassin's Creed III: Liberation 1,Acción/Aventur
+226,101,Assassin's Creed III 1,Acción/Aventur
+227,116,Just Dance: Disney Party 1,Musical/Ritmo
+228,78,Monster 4x4 3D 1,Carreras
+229,83,Anno 2070: El Misterio del Mar 1,Estrategia
+230,82,Just Dance 4 1,Musical/Ritmo
+231,82,Rocksmith 1,Musical/Simulació
+232,77,Rayman Jungle Run 1,Plataformas
+233,88,Funky Barn 3D 1,SimulaciÃ³n/GestiÃ
+234,90,The Expendables 2 Videogame 1,Acción/Disparo
+235,86,Just Dance Greatest Hits 1,Musical/Ritmo
+236,102,Petz Fantasy 3D 1,Simulación/Mascota
+237,95,Babel Rising 3D 1,Acción/Arcad
+238,93,Babel Rising PSN 1,Acción/Arcad
+239,92,Ghost Recon: Future Soldier 1,Disparos táctico
+240,94,Rayman CV 1,Plataformas
+241,96,Mad Riders PSN 1,Carreras
+242,90,Ghost Recon Commander 1,Estrategia
+243,90,TERA 1,Rol/Multijugador
+244,86,Trials Evolution XBLA 1,Carreras/Plataformas
+245,81,Rabbids Go Phone Again 1,Casual
+246,82,Just Dance: Best of 1,Musical/Ritmo
+247,81,Rayman 3 HD PSN 1,Plataformas
+248,88,Shoot Many Robots XBLA 1,Disparos
+249,90,I Am Alive XBLA 1,Supervivencia
+250,82,Tom Clancy's Ghost Recon Advanced Warfighter PS2 Classics PSN 1,Disparos táctico
+251,84,Dungeon Hunter: Alliance 1,Rol/Acció
+252,88,Lumines Electronic Symphony 1,Puzles/Ritmo
+253,75,Asphalt Injection 1,Carreras
+254,68,Prince of Persia (1989) 1,Plataformas/Aventura
+255,85,Assassin's Creed Recollection 1,Estrategia/Cartas
+256,72,Mi Experto en Defensa Personal 1,Fitness/Ejercicio
+257,78,Just Dance 3 1,Musical/Ritmo
+258,78,ABBA You Can Dance 1,Musical/Ritmo
+259,90,Rayman Origins 1,Plataformas
+260,73,Anno 2070 1,Estrategia/Gestió
+261,109,Imagina ser disenadora de Moda ,Simulació
+262,97,Assassin's Creed Revelations 1,Acción/Aventur
+263,94,Asphalt 6: Adrenaline HD 1,Carreras
+264,87,Zoo Resort 3D 1,SimulaciÃ³n/GestiÃ
+265,79,The Black Eyed Peas Experience 1,Musical/Ritmo
+266,66,My Self Defence Coach 1,Fitness/Ejercicio
+267,70,Your Shape: Fitness Evolved 2012 1,Fitness/Ejercicio
+268,85,Rabbids: Vivitos & oKupando el sal,Fiesta/Minijuegos
+269,74,Just Dance Kids 1,Musical/Ritmo
+270,69,Motionsports Adrenaline 1,Deportes
+271,78,Assassin's Creed: Rearmed 1,Acción/Estrategi
+272,94,NCIS 1,Aventura/Puzles
+273,86,Las aventuras de Tintn: El secreto del Unicorn,Aventura
+274,79,Might & Magic Heroes VI 1,Estrategia/Rol
+275,94,PowerUp Heroes Kinect 1,Lucha
+276,86,Splinter Cell HD Trilogy 1,Sigilo/Acció
+277,113,TrackMania 2: Canyon 1,Carreras
+278,83,From Dust PSN 1,Estrategia
+279,74,Driver: San Francisco 1,Carreras/Acció
+280,69,Driver Renegade 3D 1,Carreras/Acció
+281,90,James Noir's Hollywood Crimes 3D 1,Puzles/Misterio
+282,84,Tom Clancy's Splinter Cell HD PSN 1,Sigilo/Acció
+283,79,Tom Clancy's Splinter Cell Pandora Tomorrow HD PSN 1,Sigilo/Acció
+284,81,Tom Clancy's Splinter Cell Chaos Theory HD PSN 1,Sigilo/Acció
+285,87,Los Pitufos Dance Party 1,Musical/Ritmo
+286,83,Call of Juarez: The Cartel 1,Disparos
+287,65,Cubic Ninja 1,Puzles/Plataformas
+288,66,Beyond Good & Evil HD PSN 1,Acción/Aventur
+289,80,Outland PSN 1,Plataformas/Acció
+290,79,Might & Magic: Clash of Heroes PSN 1,Puzles/Rol
+291,71,Michael Jackson: The Experience 1,Musical/Ritmo
+292,82,Combate de Gigantes: Dinosaurios 3D 1,Lucha
+293,86,Rabbids 3D 1,Plataformas
+294,81,Asphalt 3D 1,Carreras
+295,81,Tom Clancy's Ghost Recon Shadow Wars 1,Estrategia
+296,76,Tom Clancy's Splinter Cell 3D 1,Sigilo/Acció
+297,97,Rayman 3D 1,Plataformas
+298,81,Dance on Broadway 1,Musical/Ritmo
+299,83,Mi Experto en Fitness Club 1,Fitness/Ejercicio
+300,86,Party Night 1,Fiesta
+301,99,We Dare 1,Fiesta
+302,84,Dance Juniors 1,Musical/Baile
+303,83,Your Shape: Fitness Evolved 1,Fitness/Ejercicio
+304,93,Teenage Mutant Ninja Turtles: Arcade Attack 1,Acción/Luch
+305,92,Innergy 1,Fitness/Bienestar
+306,82,Motionsports 1,Deportes
+307,74,Assassin's Creed - Altair Chronicles 1,Acción/Aventur
+308,85,Splinter Cell Conviction 1,Sigilo/Acció
+309,85,Rayman 2: The Great Escape 1,Plataformas/Aventura
+310,87,Assassin's Creed IV: Black Flag 2,Acción/Aventur
+311,82,Far Cry 3 2,Acción/Aventur
+312,98,For Honor 2,Lucha
+313,81,Rayman Origins 2,Plataformas
+314,75,Watch Dogs 2,Acción/Aventur
+315,84,The Division 2 2,Rol/Disparos
+316,89,Immortals Fenyx Rising 2,Acción/Aventur
+317,79,South Park: The Stick of Truth 2,Rol
+318,76,Ghost Recon Wildlands 2,Disparos táctico
+319,86,Prince of Persia: The Sands of Time 2,Acción/Aventur
+320,85,Beyond Good & Evil 2 para PlayStation 4 2,Acción/Aventur
+321,83,Prince of Persia: Las Arenas del Tiempo Remake 2,Acción/Aventur
+322,87,Assassin's Creed Codename HEXE 2,Acción/Aventur
+323,102,Assassin's Creed Infinity 2,Plataforma de servicios
+324,87,Tom Clancy's Rainbow Six Mobile 2,Disparos táctico
+325,84,The Division Resurgence 2,Rol/Disparos
+326,98,Assassin's Creed Jade 2,Rol/Acció
+327,63,Splinter Cell Remake 2,Sigilo/Acció
+328,93,Anno 117: Pax Romana 2,Estrategia
+329,100,Heroes of Might & Magic: Olden Era para Ordenador 2,Estrategia/Rol
+330,80,Morbid Metal para Ordenador 2,Acció
+331,77,Champions Tactics Reforged para Ordenador 2,Estrategia
+332,90,Assassin's Creed Shadows para PlayStation 5 2,Acción/Aventur
+333,77,BattleCore Arena para Ordenador 2,Disparos
+334,76,BUMP! Superbrawl para Ordenador 2,Lucha/Plataformas
+335,65,Rocksmith 2014 Edition REMASTERED LEARN & PLAY para Ordenador 2,Musical/Simulació
+336,78,Captain Laserhawk: the G.A.M.E. para Ordenador 2,Acción/Plataforma
+337,76,Champions Tactics: Grimoria Chronicles para Ordenador 2,Estrategia
+338,78,Just Dance 2025 para PlayStation 5 2,Musical/Ritmo
+339,76,MONOPOLY para Nintendo Switch 2,Juegos de mesa
+340,78,Star Wars Outlaws para PlayStation 5 2,Acción/Aventur
+341,88,OddBallers para Ordenador 2,Deportes/Fiesta
+342,72,Beyond Good & Evil 20th Anniversary Edition para PlayStation 5 2,Acción/Aventur
+343,91,Rocksmith 2014 Edition para PlayStation 4 2,Musical/Simulació
+344,96,Rabbids: Legends of the Multiverse para iPhone 2,Estrategia/Cartas
+346,89,XDefiant para PlayStation 5 2,Disparos
+347,75,Anno 1503 History Edition para Ordenador 2,Estrategia
+348,97,Anno 1602 History Edition para Ordenador 2,Estrategia
+349,69,Anno 1701 History Edition para Ordenador 2,Estrategia
+350,76,The Settlers : New Allies para Ordenador 2,Estrategia
